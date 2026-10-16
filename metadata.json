@@ -1,0 +1,6 @@
+{
+  "name": "GUED-COBRA - Pronostics Sportifs & IA Prédictive",
+  "description": "Plateforme premium de pronostics sportifs multi-catégories propulsée par des agents IA en temps réel, modélisation 3D interactive et tableau de bord VIP personnalisé.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
